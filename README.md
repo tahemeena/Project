@@ -2,4 +2,4 @@
 working on projects.
 
 
-Learning git 
+Learning git and github
